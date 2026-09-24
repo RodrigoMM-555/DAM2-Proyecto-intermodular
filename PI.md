@@ -38,31 +38,157 @@ En esta primera parte debéis demostrar que vuestro proyecto no aparece de forma
 
 ## 2.1. Empresas del sector por sus características organizativas y por el producto o servicio que ofrecen
 
-Investigad empresas que desarrollen productos o presten servicios relacionados con vuestro proyecto.
+El proyecto entra dentro del sector del desarrollo de aplicaciones para la organización y gestión de reuniones. Aunque existen plataformas generales de productividad y colaboración que incorporan funciones relacionadas con las reuniones, he bsucado principalmente empresas cuyo producto está directamente relacionado con la planificación, desarrollo y seguimiento de reuniones.
 
-No se trata únicamente de hacer una lista de empresas. Debéis observar qué hacen, qué tipo de productos o servicios ofrecen, a qué clientes se dirigen y qué características relevantes presentan.
+### Beenote
 
-El objetivo es conocer el sector en el que se situaría vuestro proyecto y disponer de referencias reales con las que poder compararlo.
+**Beenote** es una plataforma especializada en la gestión de reuniones, dirigida principalmente a equipos, comités, juntas directivas y organizaciones. Su objetivo es centralizar todo el proceso de una reunión en una única herramienta.
 
-Podéis estudiar, por ejemplo:
+Entre sus principales funcionalidades se encuentran la creación de agendas, organización y priorización de los puntos, control del tiempo, gestión de asistentes, toma de notas, registro de decisiones, creación de tareas y elaboración de actas. También permite controlar el acceso a documentos y mantener un historial de las reuniones. La plataforma dispone además de aplicaciones móviles.
 
-- actividad principal;
-- productos y servicios;
-- público objetivo;
-- tamaño o ámbito de actuación;
-- modelo de negocio;
-- tecnologías utilizadas cuando sean relevantes;
-- características que diferencian a unas empresas de otras.
+Su modelo de negocio es principalmente de **software como servicio (SaaS)** mediante suscripciones. Ofrece una prueba gratuita y diferentes opciones adaptadas al número de usuarios y a las necesidades de las organizaciones.
+
+Por sus características, Beenote es una de las empresas que presenta una mayor similitud con el proyecto planteado.
+
+### Tadum
+
+**Tadum** es una aplicación centrada en la gestión de reuniones periódicas. Permite preparar agendas, organizar los diferentes puntos, tomar notas y elaborar las actas de las reuniones.
+
+Una de sus características más relevantes es la continuidad entre reuniones, ya que permite mantener los puntos y tareas pendientes para tratarlos posteriormente. Este funcionamiento resulta especialmente interesante para el proyecto, puesto que una de las necesidades detectadas es evitar tener que copiar manualmente los puntos que no se han terminado de una reunión a otra.
+
+Su propuesta está más centrada en la gestión sencilla de reuniones recurrentes que en la gestión empresarial general, por lo que constituye una referencia directa para estudiar cómo simplificar el proceso de preparación, desarrollo y seguimiento de una reunión.
+
+### Decisions
+
+**Decisions** es una empresa de software orientada a organizaciones que necesitan automatizar procesos y gestionar decisiones y flujos de trabajo. Dentro de sus productos y funcionalidades incluye herramientas relacionadas con la gestión de reuniones, agendas, decisiones y tareas.
+
+Su propuesta está especialmente orientada a empresas y organizaciones de mayor tamaño y actualmente ofrece diferentes modalidades de servicio, incluyendo soluciones para organizaciones empresariales y grandes compañías. También permite diferentes opciones de despliegue y ofrece servicios de soporte y asistencia.
+
+Aunque su producto es más amplio que el proyecto planteado, resulta una referencia interesante para estudiar cómo una herramienta de gestión de reuniones puede integrarse dentro de una plataforma empresarial más completa.
+
+### Decidiq
+
+**Decidiq** es una solución orientada a la gestión de reuniones y procesos de decisión en organizaciones. Su funcionamiento se centra en estructurar las reuniones, gestionar sus agendas y mantener un registro de las decisiones y acciones posteriores.
+
+Su orientación hacia organizaciones y asociaciones resulta especialmente interesante para el proyecto, ya que permite estudiar una alternativa a las plataformas dirigidas exclusivamente a grandes empresas. Además, su relación con el ecosistema de **Nextcloud y el software libre** la diferencia de otras soluciones comerciales.
+
+### Conclusión
+
+Estas empresas muestran que existe un mercado consolidado para las herramientas de gestión de reuniones. Sin embargo, cada una se dirige a un público diferente. Beenote presenta una propuesta especialmente cercana al proyecto por reunir en una misma aplicación la preparación de la reunión, su desarrollo y el seguimiento posterior. Tadum resulta especialmente interesante por su gestión de los temas pendientes entre reuniones.
+
+El proyecto planteado se diferenciaría principalmente por centrarse en **reuniones presenciales y en el uso desde dispositivos móviles**, buscando que los participantes puedan consultar la reunión, seguir el punto que se está tratando, controlar el tiempo, participar y registrar información en tiempo real sin necesidad de utilizar herramientas diferentes.
+
+---
 
 ## 2.2. Empresas tipo: estructura organizativa y funciones de los departamentos
 
-Escoged una o varias empresas representativas del sector y explicad cómo podría organizarse una empresa de ese tipo.
+Las mayoria de empresas vistas pertenecen principalmente al sector del desarrollo de software y utilizan un modelo **SaaS** (Software as a Service), por lo que necesitan combinar las funciones relacionadas al desarrollo con otras áreas destinadas a comercializar el producto, atender al cliente y gestionar la empresa.
 
-Debéis identificar sus principales departamentos o áreas y explicar qué función desempeña cada uno.
+La estructura exacta depende del tamaño de cada compañía. Una empresa pequeña puede agrupar varias funciones en las mismas personas, mientras que una empresa de mayor tamaño dispone de departamentos independientes. Por ejemplo, Decisions cuenta con áreas relacionadas con dirección, producto, tecnología, ventas, servicios profesionales y gestión de personas.
 
-En una empresa de desarrollo de software podrían existir, por ejemplo, áreas de dirección, análisis, desarrollo, diseño, sistemas, calidad, soporte, comercial o administración. No todas las empresas tendrán necesariamente la misma estructura.
+Para una empresa dedicada al desarrollo de una aplicación de gestión de reuniones se podría plantear la siguiente estructura:
 
-Lo importante es relacionar la organización descrita con la realidad del sector de vuestro proyecto.
+### Dirección
+
+Se encarga de establecer los objetivos de la empresa, tomar las principales decisiones y coordinar el resto de departamentos. También define la estrategia del producto, el modelo de negocio y las prioridades de la empresa.
+
+En una empresa pequeña, estas funciones podrían ser asumidas directamente por los fundadores.
+
+### Análisis y producto
+
+Este departamento estudia las necesidades de los usuarios y determina qué funcionalidades debe tener la aplicación. También establece las prioridades de desarrollo y analiza cómo mejorar el producto.
+
+En este proyecto tendría especial importancia para estudiar cómo utilizan los usuarios la aplicación durante una reunión y detectar qué acciones deben poder realizar rápidamente desde el teléfono.
+
+### Diseño y experiencia de usuario
+
+Se encarga del diseño visual y de la experiencia de uso de la aplicación. Su objetivo es conseguir que las diferentes funciones sean fáciles de entender y utilizar.
+
+En una aplicación centrada en reuniones presenciales, este departamento tendría especial importancia, ya que los usuarios deberían poder consultar y modificar información rápidamente mientras participan en la reunión.
+
+### Desarrollo y tecnología
+
+Es el departamento encargado de construir y mantener la aplicación. Entre sus funciones se encontrarían:
+
+* Desarrollo de la aplicación.
+* Desarrollo y mantenimiento de la base de datos.
+* Creación y mantenimiento de las API.
+* Corrección de errores.
+* Actualizaciones y nuevas funcionalidades.
+* Gestión de servidores e infraestructura.
+* Seguridad de la aplicación.
+
+En una empresa pequeña, varias de estas tareas podrían ser realizadas por los mismos desarrolladores.
+
+### Calidad y pruebas
+
+Se encarga de comprobar que la aplicación funciona correctamente antes de publicar nuevas versiones. Realiza pruebas para detectar errores y comprobar que las nuevas funcionalidades no afectan al resto del sistema.
+
+También puede comprobar aspectos como el funcionamiento en diferentes dispositivos, la seguridad y el rendimiento de la aplicación.
+
+### Marketing y comercial
+
+Este departamento se encarga de dar a conocer la aplicación y conseguir nuevos clientes.
+
+Entre sus funciones estarían:
+
+* Publicidad y campañas de marketing.
+* Gestión de redes sociales.
+* Página web y contenido.
+* Contacto con posibles clientes.
+* Demostraciones del producto.
+* Gestión de precios y planes de suscripción.
+
+### Soporte y atención al cliente
+
+Se encarga de resolver las dudas y problemas de los usuarios. También recoge sugerencias y problemas detectados por los clientes para transmitirlos al departamento de producto y desarrollo.
+
+En Beenote, por ejemplo, existe soporte técnico y material de formación para ayudar a los usuarios a utilizar la plataforma.
+
+### Administración y finanzas
+
+Gestiona los aspectos económicos y administrativos de la empresa. Entre sus funciones se encuentran la facturación, los gastos, los presupuestos, los impuestos y el control de los ingresos procedentes de las suscripciones.
+
+### Recursos humanos
+
+Se encarga de la contratación y gestión de los trabajadores, así como de aspectos relacionados con la formación, organización interna y condiciones laborales.
+
+En una empresa pequeña esta función puede ser asumida por la dirección o incluso externalizada.
+
+### Estructura general
+
+La estructura de una empresa de este tipo podría representarse de la siguiente manera:
+
+```text
+                         DIRECCIÓN
+                             │
+       ┌─────────────────────┼─────────────────────┐
+       │                     │                     │
+    PRODUCTO            TECNOLOGÍA          ADMINISTRACIÓN
+       │                     │                     │
+ ┌─────┴─────┐        ┌──────┴──────┐              │
+ │           │        │             │              │
+Análisis   Diseño   Desarrollo    Calidad       Finanzas
+                      │
+                 Infraestructura
+       
+       ┌─────────────────────┐
+       │                     │
+   COMERCIAL              SOPORTE
+       │                     │
+   Marketing          Atención al cliente
+       │
+     Ventas
+
+                 RECURSOS HUMANOS
+```
+
+No sería necesario que una empresa recién creada contase desde el principio con todos estos departamentos. En sus primeras etapas podría existir un equipo reducido en el que una misma persona desempeñase varias funciones. Por ejemplo, los fundadores podrían encargarse de la dirección y administración, mientras que un pequeño equipo de desarrollo asumiría también parte del análisis, las pruebas y el mantenimiento.
+
+A medida que aumentase el número de usuarios y clientes, las funciones podrían separarse en departamentos especializados. De esta forma, la estructura evolucionaría junto con las necesidades de la empresa.
+
+Esta organización permite observar que el desarrollo de una aplicación de software requiere mucho más que la programación del producto. Para que una herramienta de gestión de reuniones pueda mantenerse y crecer son necesarias también funciones de análisis, diseño, calidad, soporte, comercialización y administración.
+
 
 ## 2.3. Necesidades más demandadas a las empresas
 
