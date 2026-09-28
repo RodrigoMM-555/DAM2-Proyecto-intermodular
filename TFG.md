@@ -159,7 +159,7 @@ En una empresa pequeña esta función puede ser asumida por la dirección o incl
 
 La estructura de una empresa de este tipo podría representarse de la siguiente manera:
 
-```text
+```
                          DIRECCIÓN
                              │
        ┌─────────────────────┼─────────────────────┐
@@ -192,11 +192,17 @@ Esta organización permite observar que el desarrollo de una aplicación de soft
 
 ## 2.3. Necesidades más demandadas a las empresas
 
-A partir de la investigación anterior, identificad qué necesidades parecen demandar con mayor frecuencia los clientes o usuarios del sector.
+A partir del análisis de las anteriores aplicaciones, podemos identificar varias necesidades comunes relacionadas con la gestión de reuniones.
 
-Pensad en problemas reales que puedan resolverse mediante software: automatización de procesos, gestión de información, comunicación, comercio electrónico, educación, análisis de datos, movilidad, seguridad, entretenimiento, accesibilidad, etc.
+La mas importante es **organizar y estructurar las reuniones**, permitiendo crear una agenda, establecer prioridades y saber qué puntos deben tratarse. Aplicaciones como BeeNote, Tadum o Decisions incluyen herramientas de este tipo para facilitar la planificación.
 
-No basta con afirmar que una necesidad existe. Siempre que sea posible, justificad por qué la consideráis relevante a partir de vuestro análisis del sector.
+También destaca la necesidad de **controlar la reunión en tiempo real**, especialmente mediante temporizadores, seguimiento del punto actual y control del tiempo disponible, si es que hay limite. Esto ayuda a evitar que una reunión se centre demasiado en un único asunto o se alargue innecesariamente.
+
+Otra necesidad es **registrar decisiones y tareas**, permitiendo indicar qué se ha acordado y quién debe realizar cada tarea. Esto facilita el seguimiento posterior y evita que los acuerdos se pierda. Ademas permite a la gente que no ha acudido conoer el desarrollo de la reunion.
+
+Por último, las aplicaciones analizadas muestran la importancia de **mantener un registro de las reuniones y de los asuntos pendientes**, de forma que los puntos que no se hayan terminado puedan continuar en reuniones posteriores o se pueda prguntar por el avance de una tarea asignada.
+
+Estas necesidades sirven como referencia para nuestro proyecto, que busca adaptarlas a **reuniones presenciales de grupos scout**, dando especial importancia al uso desde dispositivos móviles, la gestión del tiempo, la asistencia, las tareas y el seguimiento de los puntos pendientes. Como funcionalidad unica o por lo menos poco comun me gustaria instaurar un sistema de roles que permita cambiar la visisbilidad de ciertos puntos según el usuario.
 
 ## 2.4. Oportunidades de negocio previsibles en el sector
 
