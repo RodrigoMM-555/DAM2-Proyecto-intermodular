@@ -206,13 +206,17 @@ Estas necesidades sirven como referencia para nuestro proyecto, que busca adapta
 
 ## 2.4. Oportunidades de negocio previsibles en el sector
 
-Además de estudiar la situación actual, debéis analizar posibles oportunidades futuras.
+El mercado de las herramientas de gestión de reuniones está consolidado, pero las propias empresas analizadas dejan ver huecos que un proyecto como este puede aprovechar.
 
-Podéis considerar cambios tecnológicos, nuevas formas de consumo, transformación digital, inteligencia artificial, automatización, servicios en la nube, dispositivos móviles, nuevas necesidades empresariales o cualquier otra tendencia relacionada directamente con vuestro proyecto.
+La primera oportunidad está en las organizaciones pequeñas y sin ánimo de lucro. Soluciones como Decisions están pensadas para empresas de mayor tamaño y las plataformas con suscripción por usuario pueden resultar caras para asociaciones que funcionan con voluntarios. Los grupos scout, y en general las asociaciones juveniles, culturales o vecinales, tienen reuniones periódicas, rotación frecuente de miembros y poco presupuesto. Una herramienta ligera, de bajo coste o gratuita para entidades pequeñas encaja con esta necesidad.
 
-El objetivo es explicar si existe una oportunidad razonable para una solución como la que proponéis.
+La segunda oportunidad es el uso en reuniones presenciales desde el móvil. Buena parte de las herramientas actuales nacieron para reuniones online o para preparar y documentar la reunión desde el ordenador. Una aplicación pensada desde el principio para el móvil, en la que los asistentes siguen el punto actual, consultan el tiempo restante y registran acuerdos mientras la reunión transcurre, cubre un uso que las plataformas generalistas atienden de forma secundaria.
 
-Evitad afirmaciones excesivamente generales. Relacionad las oportunidades detectadas con vuestro proyecto concreto.
+La tercera es la gestión de la información por perfiles. En organizaciones con menores y familias, no toda la información debe ser visible para todos (por ejemplo, un asunto de tesorería, un tema de un menor o una decisión de la jefatura). El sistema de roles con visibilidad por punto responde a una necesidad real de privacidad y puede ser un elemento diferencial frente a herramientas que solo distinguen entre organizador e invitado.
+
+También hay tendencias tecnológicas favorables: la generalización de las aplicaciones web progresivas (PWA), que permiten usar una web como una app sin pasar por las tiendas de aplicaciones, la madurez de los servicios en la nube para alojar este tipo de aplicaciones a bajo coste y el avance de la inteligencia artificial, que abre la puerta a funciones futuras como la generación automática de actas a partir de las notas o la sugerencia de tareas.
+
+Por último, el proyecto puede crecer de forma natural: de un grupo scout a federaciones de grupos, otras asociaciones o pequeños equipos, con un modelo gratuito para entidades pequeñas y planes de pago para funciones adicionales.
 
 ## 2.5. Tipo de proyecto requerido para responder a las demandas previstas
 
